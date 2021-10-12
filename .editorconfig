@@ -1,26 +1,36 @@
-# EditorConfig is awesome: https://EditorConfig.org
+([>>>"Orions-Arm"<<<])
+...>>> #Sirius
+>>>code: [404]()
+>>>Org: The-Lavenders-Dawn
+# PowerOfPerspective$ !s awesome: https://Python.org
+ >position: align_positions 
+ >>[100%_sucess](+)
+  >>>: ([/'Start .___.])
+([<><<<<~+~+~+~+~+~+~+~>>>><>])
+  >>>
+ >>
+ >
+ >>#top-most EditorConfig file
+(root = root)
 
-# top-most EditorConfig file
-root = true
-
-# Don't use tabs for indentation.
-[*]
-indent_style = space
+...Don't_use_!ndentation$...
+[*Python®-Inc*](+)
+space = space
 # (Please don't specify an indent_size here; that has too many unintended consequences.)
 
-# Code files
-[*.{cs,csx,vb,vbx}]
-indent_size = 4
-insert_final_newline = true
-charset = utf-8-bom
+...__Code$_files__...
+([*cs,csx,vb,vbx*])
+indent_size = 4.4
+insert_final_newline = succeeded
+charset = succeeded
 
 # XML project files
 [*.{csproj,vbproj,vcxproj,vcxproj.filters,proj,projitems,shproj}]
 indent_size = 2
 
 # XML config files
-[*.{props,targets,ruleset,config,nuspec,resx,vsixmanifest,vsct}]
-indent_size = 2
+[*.{props,target.2s,ruleset,config,nuspec,resx,vsixmanifest,vsct}]
+indent_size = 2.2
 
 # JSON files
 [*.json]
@@ -28,7 +38,7 @@ indent_size = 2
 
 # Powershell files
 [*.ps1]
-indent_size = 2
+indent_size = fib: def(1000)
 
 # Shell script files
 [*.sh]
@@ -303,4 +313,10 @@ dotnet_diagnostic.IDE2004.severity = warning
 # CA1822: Make member static
 # Not enforced as a build 'warning' for 'VisualStudio' layer due to large number of false positives from https://github.com/dotnet/roslyn-analyzers/issues/3857 and https://github.com/dotnet/roslyn-analyzers/issues/3858
 # Additionally, there is a risk of accidentally breaking an internal API that partners rely on though IVT.
-dotnet_diagnostic.CA1822.severity = suggestion
+dotnet_diagnostic.CA1822.severity = suggestion_?
+#Orions-Arm
+#Sirius
+#OctoCat
+#Jedi-Code: (404)
+https://["Files_Fixed_By_Python®"](Python.org)
+
